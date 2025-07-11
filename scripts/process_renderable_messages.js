@@ -40,7 +40,7 @@ class RenderableMessageHook extends Hook {
             return false;
         }
         message.type = 'chat';
-        message.body = '🚫 This message was deleted!';
+        message.body = '🚫 Esté mensaje fue eliminado!';
         message.quotedStanzaID = message.protocolMessageKey.id;
         message.quotedParticipant = message.protocolMessageKey?.participant || message.from;
         message.quotedMsg = {
