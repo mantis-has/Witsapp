@@ -1,10 +1,10 @@
-# WhatsApp-Web-Plus
+# Witsapp El WhatsApp confiable para ti.
 
 ## Features
 
-|                    Feature                    | Availability |
+|                    Factura                    | avilitado |
 |:---------------------------------------------:|:------------:|
-|           View once media disabler            |      ✔       |
+|           Desactivador de medios de visualización única            |      ✔       |
 |             Keep revoked messages             |      ✔       |
 |             Keep edited messages              |      ✔       |
 |              Indicate sender OS               |      ✔       |
